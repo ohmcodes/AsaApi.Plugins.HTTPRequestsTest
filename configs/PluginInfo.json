@@ -1,6 +1,6 @@
 {
-    "FullName": "Plugin Template",
-    "Description": "Simple plugin template",
-    "Version": 0.1,
+    "FullName": "HTTPRequests",
+    "Description": "HTTP Request (GET,POST,PUT,DELETE)",
+    "Version": 1.0,
     "MinApiVersion": 1.0
 }
