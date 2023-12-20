@@ -24,7 +24,7 @@ void HTTPFetch()
 
     std::vector<std::string> headers = {
         "Content-Type: application/json",
-        "User-Agent: DiscordChat/1.0",
+        "User-Agent: HTTPRequests/1.0",
         "Connection: keep-alive",
         "Accept: */*",
         "Content-Length: 0",
